@@ -5,6 +5,8 @@ Esta página web presenta la información estructurada de forma clara y visualme
 ## 👨‍💻 Autor
 
 * **Daniel Díaz Canosa** - Estudiante de 1º DAM (Desarrollo de Aplicaciones Multiplataforma).
+* **Email:** canosadiaz6@gmail.com
+* **Linkedin:** www.linkedin.com/in/dani-díaz-canosa-4465793b2
 
 ## ✨ Características Principales
 
