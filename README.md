@@ -1,10 +1,10 @@
-# El Podenco, Noble y Fiel 🐕
-
-Proyecto web educativo e interactivo dedicado a dar a conocer las características, cuidados e historia de la raza de perro Podenco. Desarrollado por **Daniel Díaz Canosa** (1º DAM).
-
 ## 📖 Descripción del Proyecto
 
 Esta página web presenta la información estructurada de forma clara y visualmente atractiva utilizando un diseño estilo "Bento Grid". Los usuarios pueden explorar diferentes secciones sobre el podenco interactuando con las tarjetas, las cuales se amplían para mostrar información detallada sin necesidad de recargar la página.
+
+## 👨‍💻 Autor
+
+* **Daniel Díaz Canosa** - Estudiante de 1º DAM (Desarrollo de Aplicaciones Multiplataforma).
 
 ## ✨ Características Principales
 
