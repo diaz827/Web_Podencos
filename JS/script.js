@@ -103,3 +103,5 @@ lightbox.addEventListener('click', () => {
   lightbox.classList.remove('active');
   lightbox.innerHTML = '<img src="" alt="Imagen ampliada" class="lightbox-content" id="lightbox-img">';
 });
+
+// (Sin JS de tema)
