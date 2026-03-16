@@ -105,3 +105,4 @@ lightbox.addEventListener('click', () => {
 });
 
 // (Sin JS de tema)
+
